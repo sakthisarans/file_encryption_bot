@@ -1,7 +1,7 @@
 import telebot,time
 import enc,os
 
-api='6554856541:AAF9Q_Bp9vhKBuudBdomEKhv7N1CGGKPsoo'
+api='**********************************'
 bot=telebot.TeleBot(api)
 
 
